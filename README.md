@@ -58,7 +58,7 @@ Download the following dataset:
 > * Inference takes approx. 5 minutes (with RTX A5000 GPU).
 #### Example qualitative results:
 
-<p align="middle">
+<p align="middle"> 
     <img src="data/git_visualize/vis_results.png">
 </p>
    
