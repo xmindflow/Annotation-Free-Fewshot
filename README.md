@@ -2,7 +2,7 @@
 This is the implementation of the paper "Self-supervised Few-shot Learning for Semantic Segmentation: An Annotation-free Approach" by Sanaz Karimijafarbigloo, Reza Azad, and Dorit Merhof. Implemented on Python 3.7 and Pytorch 1.5.1.
 
 <p align="middle">
-    <img src="https://github.com/mindflow-institue/annotation_free_fewshot/blob/main/git_visualize/architecture.png">
+    <img src="https://github.com/mindflow-institue/annotation_free_fewshot/blob/main/git_visualize/architecture.png" width="400">
 </p>
 
 
@@ -59,10 +59,10 @@ Download the following dataset:
 > * Inference takes approx. 5 minutes (with RTX A5000 GPU).
 #### Example qualitative results:
 
-<p align="middle"> 
-    <img src="[data/git_visualize](https://github.com/mindflow-institue/annotation_free_fewshot/blob/main/git_visualize/vis_results.png)">
-</p>
-   
+<p align="middle">
+    <img src="https://github.com/mindflow-institue/annotation_free_fewshot/blob/main/git_visualize/vis_results.png" width="400">
+</p>   
+
 ## BibTeX
 If you use this code for your research, please consider citing:
 ````BibTeX
