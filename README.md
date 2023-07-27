@@ -49,12 +49,13 @@ Download the following dataset:
 ## Testing
 
 > ### 1. FSS-1000
+> ```bash
 > python test.py --backbone resnet50
 >                --benchmark fss 
 >                --nshot 1
 >                --load "path_to_trained_model/weight.pt"
 > ```
-
+> * Inference takes approx. 5 minutes (with RTX A5000 GPU).
 #### Example qualitative results:
 
 <p align="middle">
