@@ -6,7 +6,7 @@ This is the implementation of the paper "Self-supervised Few-shot Learning for S
 </p>
 
 
-For more information, check out our paper on [[arXiv]()].
+For more information, check out our paper on [[arXiv](https://arxiv.org/pdf/2307.14446.pdf)].
 
 ## Requirements
 
