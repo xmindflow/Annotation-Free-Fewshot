@@ -5,7 +5,6 @@ This is the implementation of the paper "Self-supervised Few-shot Learning for S
     <img src="https://github.com/mindflow-institue/annotation_free_fewshot/blob/main/git_visualize/architecture.png" width="800">
 </p>
 
-
 For more information, check out our paper on [[arXiv](https://arxiv.org/pdf/2307.14446.pdf)].
 
 ## Requirements
@@ -66,6 +65,10 @@ Download the following dataset:
 ## BibTeX
 If you use this code for your research, please consider citing:
 ````BibTeX
-@InProceedings{fewshot
+@article{karimijafarbigloo2023self,
+  title={Self-supervised Few-shot Learning for Semantic Segmentation: An Annotation-free Approach},
+  author={Karimijafarbigloo, Sanaz and Azad, Reza and Merhof, Dorit},
+  journal={arXiv preprint arXiv:2307.14446},
+  year={2023}
 }
 ````
