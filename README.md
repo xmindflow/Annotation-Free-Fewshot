@@ -1,4 +1,4 @@
-# Self-supervised Few-shot Learning for Semantic Segmentation: An Annotation-free Approach
+# Self-supervised Few-shot Learning for Semantic Segmentation: An Annotation-free Approach <br> <span style="float: right"><sub><sup>MICCAI 2023 PRIME Workshop</sub></sup></span>
 This is the implementation of the paper "Self-supervised Few-shot Learning for Semantic Segmentation: An Annotation-free Approach" by Sanaz Karimijafarbigloo, Reza Azad, and Dorit Merhof. Implemented on Python 3.7 and Pytorch 1.5.1.
 
 <p align="middle">
